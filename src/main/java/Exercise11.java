@@ -20,7 +20,7 @@ public class Exercise11 {
 
         System.out.println(euros + " euros at an exchange rate of " + exchangeRate + " is " + Math.round(dollars * 100.00)/100.00 + " U.S. dollars.");
 
-        scnr.close();
+        
         System.exit(0);
 
 
